@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0bae4a5-d082-4097-aa7e-8cbef76932a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z8MJsLTNXTRRfP51R4gWm4n0H1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../personal_portfolio-project_NICK" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jacek.polecki\Dropbox\Django\personal_portfolio-project\portfolio\static\portfolio" />
+      <recent name="C:\Users\jacek.polecki\Dropbox\Django\personal_portfolio-project\portfolio\static" />
+      <recent name="C:\Users\jacek.polecki\Dropbox\Django\personal_portfolio-project\portfolio\templates\portfolio" />
+      <recent name="C:\Users\jacek.polecki\Dropbox\Django\personal_portfolio-project\portfolio" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0bae4a5-d082-4097-aa7e-8cbef76932a8" name="Default Changelist" comment="" />
+      <created>1584216198887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584216198887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="5" key="#Notifications" timestamp="1584216378249">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="5" key="#Notifications/0.0.1280.689/0.-1080.1920.1080@0.0.1280.689" timestamp="1584216378249" />
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1584302032440">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689/0.-1080.1920.1080@0.0.1280.689" timestamp="1584302032440" />
+    <state x="303" y="10" key="search.everywhere.popup" timestamp="1584279300870">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" key="search.everywhere.popup/0.0.1280.689/0.-1080.1920.1080@0.0.1280.689" timestamp="1584279300870" />
+  </component>
+</project>
